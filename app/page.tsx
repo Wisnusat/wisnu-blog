@@ -7,7 +7,7 @@ const articles = [
     id: 1,
     title: 'HTML, CSS, dan JavaScript: Pondasi Front-End Web Development',
     excerpt: 'Artikel ini memberikan gambaran singkat tentang teknologi dasar pengembangan web: HTML, CSS, dan JavaScript...',
-    content: 'Artikel ini membahas lebih dalam tentang dasar-dasar pengembangan web: HTML untuk struktur, CSS untuk gaya, dan JavaScript untuk interaktivitas. Pelajari bagaimana ketiga teknologi ini menjadi tulang punggung situs web modern. HTML menyediakan kerangka, CSS mempercantik tampilan, dan JavaScript menambahkan fitur dinamis. Baik kamu seorang pemula atau ingin menyegarkan kembali pengetahuanmu, menguasai alat-alat ini akan membuka jalan menuju kesuksesan.',
+    content: 'Dalam dunia web development, tiga teknologi utama menjadi fondasi dari tampilan dan interaktivitas sebuah website: HTML, CSS, dan JavaScript. Ketiganya bekerja bersama untuk menciptakan pengalaman pengguna yang menarik, fungsional, dan responsif. Yuk, kita eksplorasi lebih dalam tentang apa itu HTML, CSS, dan JavaScript serta bagaimana mereka berkontribusi dalam pengembangan front-end.',
     date: '2024-12-29'
   }  
 ]
